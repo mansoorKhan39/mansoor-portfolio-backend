@@ -1,2 +1,7 @@
-node_modules 
-.env 
+node_modules
+.env
+.env.*
+.data
+mansoor-portfolio-backend-main
+*.log
+.DS_Store
